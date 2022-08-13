@@ -3,7 +3,7 @@
 [GitHub](https://github.com/pypi-zedzhen/tomlconfig)
 
 ## Установка
-> pip install tomlconfig --index-url=pypi.zedzhen.ru
+> pip install tomlconfig --index-url=https://pypi.zedzhen.ru/simple
 
 ## Использование
 ### TomlConfig(filename)
